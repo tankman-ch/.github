@@ -23,10 +23,6 @@
 
 
 
---- | ---
-![](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg) | ![](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg)
-<br /><br />
-
 
 
 <p align="center">
@@ -38,16 +34,10 @@
 
 
 
-<p float="left">
+<p float="center">
   <img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg" width="45%" />
   <img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg" width="45%" /> 
 </p>
-<br /><br />
-
-
-
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg)  |  ![](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg)
 <br /><br />
 
 
