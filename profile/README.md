@@ -1,13 +1,13 @@
 ![TankMan banner](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/profile-banner_1500x600.jpg)
 
-## What Caused the Tiananmen Square Protests?
+## What Caused The Tiananmen Square Protests?
 
 <p align="justify">Texto...</p>
 
 <p align="justify">Texto...</p>
 <br />
 
-## Who Was the Tank Man?
+## Who Was The Tank Man?
 
 <p align="justify">Texto...</p>
 
@@ -23,6 +23,8 @@
 <br />
 
 ## Why China Massacred Its Own People
+
+<p align="justify">Texto...</p>
 
 <p align="justify">Texto...</p>
 <br />
