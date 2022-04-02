@@ -20,7 +20,6 @@
         <td><img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg" width="100%"></td>
     </tr>
 </table>
-<br />
 
 ## Why China Massacred Its Own People
 
