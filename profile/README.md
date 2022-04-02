@@ -21,7 +21,7 @@
     </tr>
 </table>
 
-## Why China Massacred Its Own People
+## Why China Massacred Its Own People?
 
 <p align="justify">Texto...</p>
 
