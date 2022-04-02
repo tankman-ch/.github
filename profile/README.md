@@ -32,4 +32,4 @@
 
 ---
 
-<h4 align="right">:fist_raised:&nbsp; It's alive, it's on the Internet, it's forever!</h4>
+<h4 align="right">:fist_raised:&nbsp; It's alive, it's on the Internet, it's forever. Never forget!</h4>
