@@ -19,7 +19,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+/coverage
 *.lcov
 
 # nyc test coverage
@@ -36,13 +36,26 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+/dist
+/tmp
+/out-tsc
+/bazel-out
 
 # Dependency directories
 node_modules/
 jspm_packages/
+npm-debug.log
+yarn-error.log
 
 # TypeScript v1 declaration files
 typings/
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/libpeerconnection.log
+testem.log
 
 # TypeScript cache
 *.tsbuildinfo
@@ -80,10 +93,8 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
-.cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
@@ -102,3 +113,27 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/
+.history/
+prettierignore.txt
+tankman-ch.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project files
+.angular/
+etc/
+package-lock.json
