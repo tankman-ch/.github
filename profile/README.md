@@ -1,6 +1,11 @@
 ![TankMan banner](https://raw.githubusercontent.com/tankman-ch/.github/main/assets/profile-banner_1500x600.jpg)
 
-# The Tiananmen Square Protests
+## When China Massacred Its Own People
+
+<p align="justify">Texto...</p>
+<br />
+
+## What Caused the Tiananmen Square Protests?
 
 <p align="justify">Texto...</p>
 
@@ -9,56 +14,24 @@
 
 ## Who was the Tank Man?
 
-
 <p align="justify">Texto...
-
-Texto...
-
-Texto...
-Texto...
-<img alt="Light" src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg" width="30%">
-Texto...
-Texto...
-Texto...
-Texto...
-Texto...
-Texto...
-Texto...
-Texto... </p>
-
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto...
+    Texto... 
+</p>
 
 <p align="justify">Texto...</p>
 
 <p align="justify">Texto...</p>
 <br />
-<br /><br />
-
-
-
-![alt-text-1](assets/img-left_425x250.jpg "title-1") ![alt-text-2](assets/img-right_425x250.jpg "title-2")
-<br /><br />
-
-
-
-
-
-<p align="center">
-  <img alt="Light" src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg" width="45%">
-</p>
-<br /><br />
-
-
-
-<p float="center">
-  <img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-left_425x250.jpg" width="45%" />
-  <img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg" width="45%" /> 
-</p>
-<br /><br />
-
-
-
 
 <table>
   <tr>
@@ -66,17 +39,10 @@ Texto... </p>
     <td><img src="https://raw.githubusercontent.com/tankman-ch/.github/main/assets/img-right_425x250.jpg" width="100%"></td>
   </tr>
  </table>
-<br /><br />
-
-
-
-
-
-
 <br />
 
-> "Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
+> "Everyone who took part must speak up about what they know happened. That’s our duty to the dead, the survivors and the children of the future." &nbsp; — &nbsp; JIANG LIN, a former journalist for the Chinese military who witnessed the 1989 Tiananmen Square massacre.
 
 - - -
 
-<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>
+<h4 align="right">:fist_raised:&nbsp; It's alive, it's on the Internet, it's forever!</h4>
