@@ -27,8 +27,7 @@
 <p align="justify">Texto...</p>
 <br />
 
-> "Everyone who took part must speak up about what they know happened. That’s our duty to the dead, the survivors and the children of the future."
-> &nbsp; — &nbsp; JIANG LIN, a former journalist for the Chinese military who witnessed the 1989 Tiananmen Square massacre.
+> "Everyone who took part must speak up about what they know happened. That’s our duty to the dead, the survivors and the children of the future." &nbsp; — &nbsp; JIANG LIN, a former journalist for the Chinese military who witnessed the 1989 Tiananmen Square massacre.
 
 ---
 
